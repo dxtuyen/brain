@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "522aa30cfb7df803",
+        "id": "5df31ee1ebf9694a",
         "type": "tabs",
         "children": [
           {
-            "id": "8d057338b6b8ab9c",
+            "id": "eac46fe5c7277e48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bayes's Theorem.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bayes's Theorem"
+            }
+          },
+          {
+            "id": "1db26de3730417c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Resource/Train of Thought.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Train of Thought"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47740da809fb7a0f",
@@ -196,30 +216,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d057338b6b8ab9c",
+  "active": "1db26de3730417c4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Bayes's Theorem.md",
+    "Dataview.md",
+    "20 Resource/Vim.md",
+    "25 MOC/Statistics & Probability.md",
+    "Conditional Probability.md",
+    "Axioms of Probability.md",
+    "25 MOC",
+    "20 Resource/MOC - AI.md",
+    "Study experience.md",
+    "22 Books",
+    "20 Resource/8 Verses of Enlightenment.md",
+    "20 Resource/Minmax Search.md",
+    "20 Resource/Overcome Intrusive Thoughts.md",
+    "20 Resource/Physics Q.md",
     "Untitledfsafasd.md",
     "30 Attachments/Pasted image 20261012121233.png",
     "30 Attachments/Textbook/Computer Networking_ A Top-Down Approach, - James F. Kurose.pdf",
     "30 Attachments/Textbook/Advanced Grammar in Use Book with Answers, - Unknown.pdf",
     "30 Attachments/Textbook/Academic vocabulary in use - McCarthy, Michael, 1947- author.pdf",
-    "20 Resource/8 Verses of Enlightenment.md",
     "30 Attachments/Textbook/English Collocations in Use Advanced Book - Felicity O_Dell, Michael McCarthy.pdf",
     "30 Attachments/Textbook/Operating System Concepts - Abraham Silberschatz, Peter Baer Galvin.pdf",
     "30 Attachments/Textbook/Fundamentals of Database Systems Seventh E - Ramez Elmasri, Shamkant B. Navathe.pdf",
     "30 Attachments/Textbook/Pro Git - Scott Chacon, Ben Straub.pdf",
     "30 Attachments/Textbook/The Linux Command Line, 7th Internet Editi - William Shotts.pdf",
-    "30 Attachments/Textbook/Statistics, Fourth Edition - David Freeman, Robert Pisani.pdf",
-    "30 Attachments/Textbook/University Physics - Sears.pdf",
-    "20 Resource/Vim.md",
     "20 Resource/Train of Thought.md",
-    "20 Resource/Minmax Search.md",
-    "20 Resource/MOC - AI.md",
     "20 Resource/Writing In Obsidian.md",
     "20 Resource/Syntax Python.md",
-    "20 Resource/Physics Q.md",
-    "20 Resource/Overcome Intrusive Thoughts.md",
     "Welcome.md"
   ]
 }

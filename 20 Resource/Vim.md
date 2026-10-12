@@ -45,7 +45,7 @@
 | `:{n}`     | Move to line `n` (e.g. `:20`)              |
 | `Ctrl + d` | Scroll down half a screen                  |
 | `Ctrl + u` | Scroll up half a screen                    |
-| `Ctrl + f` | Scroll forward one screen                  |
+| `ctrl + f` | Scroll forward one screen                  |
 | `Ctrl + b` | Scroll backward one screen                 |
 | `%`        | Jump to the matching bracket               |
 

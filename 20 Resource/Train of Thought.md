@@ -3,3 +3,5 @@
 - Next time, I should open Claude to review it and then have the AI explain it further, trying to recall the concepts.
 ## Physics 
 - 
+## Statistics
+- Review the section on probability multiplication with Bayes' theorem.
