@@ -1,4 +1,8 @@
 {
   "spellcheck": false,
-  "vimMode": true
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Resource",
+  "livePreview": true,
+  "settingsPopoutWindow": false
 }
