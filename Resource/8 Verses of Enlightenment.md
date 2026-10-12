@@ -7,4 +7,4 @@
 5. Nhận phần thua thiệt về mình và dâng phần thắng cho người
 6. Xem người làm tổn thương mình là bậc thầy tối thượng
 7. Pháp tu Tông Lừng (Cho và Nhận): Dâng tặng hạnh phúc và nhận lấy khổ đau của chúng sinh
-8. Sống trọn vẹn mà không bị dẫn đục bởi tám pháp thế gian, hiểu vạn pháp như ảo ảnh
+8. Sống trọn vẹn mà không bị dẫn đục bởi tám pháp thế gian, hiểu vạn pháp như ảo ảnh.
