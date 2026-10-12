@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Resource",
   "livePreview": true,
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": false,
+  "attachmentFolderPath": "30 Attachments"
 }
