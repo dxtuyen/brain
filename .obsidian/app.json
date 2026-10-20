@@ -2,9 +2,13 @@
   "spellcheck": false,
   "vimMode": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Resource",
+  "newFileFolderPath": "10 Draft",
   "livePreview": true,
   "settingsPopoutWindow": false,
   "attachmentFolderPath": "30 Attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "openBehavior": "file:",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source"
 }
