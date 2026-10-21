@@ -50,4 +50,5 @@ Từ thư mục cấu hình, chạy:
 nswitch
 ```
 
-Không cần chạy `nix flake update` để cập nhật Lotus.
+Không cần chạy `nix flake update` để cập nhật Lotus
+tại sao bạn có thể làm được điều mà mọi người nghĩ là không thể như vậy thật là phi thường. Nếu trong tương lai bạn có thể làm được nhiều hơn nữa tôi hdddđdđa

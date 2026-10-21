@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "NixOS"
             }
+          },
+          {
+            "id": "b22756a1e247d827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Draft/Update Lotus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Update Lotus"
+            }
+          },
+          {
+            "id": "21cc07b6b9e1d667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Draft/Thơ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thơ"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,8 +244,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2e3dfe7c0b3da500",
+  "active": "21cc07b6b9e1d667",
   "lastOpenFiles": [
+    "10 Draft/Thơ.md",
     "10 Draft/Update Lotus.md",
     "20 Resource/NixOS.md",
     "20 Resource/AI.md",
@@ -246,7 +275,6 @@
     "20 Resource/Writing In Obsidian.md",
     "20 Resource/Propositional Logic - Equivalence Laws.md",
     "20 Resource/Syntax Python.md",
-    "20 Resource/Minmax Search.md",
     "11 Inbox",
     "10 Personal",
     "25 MOC",
