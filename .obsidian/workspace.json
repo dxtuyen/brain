@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3da0e26826697d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 Resource/Questions - Database.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions - Database"
-            }
-          },
-          {
             "id": "e3a790b516833cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Draft/Physics.md",
+                "file": "20 Resource/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "AI"
             }
           },
           {
-            "id": "c525ee1e1f3728e1",
+            "id": "2e3dfe7c0b3da500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Draft/Lịch sử đảng.md",
+                "file": "20 Resource/NixOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lịch sử đảng"
+              "title": "NixOS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,18 +216,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c9b307769aca3ea",
+  "active": "2e3dfe7c0b3da500",
   "lastOpenFiles": [
-    "10 Draft/Lịch sử đảng.md",
-    "10 Draft/Physics.md",
+    "10 Draft/Update Lotus.md",
+    "20 Resource/NixOS.md",
+    "20 Resource/AI.md",
+    "20 Resource/Quote.md",
+    "10 Draft/Obsidian.md",
+    "20 Resource/Lịch sử đảng.md",
+    "10 Draft/fafda.md",
+    "20 Resource/Physics.md",
     "20 Resource/Questions - Database.md",
     "20 Resource/Database.md",
     "10 Draft/Untitled 1.md",
-    "10 Draft/fafda.md",
     "20 Resource/Lab.md",
-    "20 Resource/AI.md",
     "20 Resource/Conditional Probability.md",
-    "10 Draft/Untitled.md",
     "20 Resource/Bayes's Theorem.md",
     "Tụ điện.md",
     "10 Draft",
@@ -258,9 +247,6 @@
     "20 Resource/Propositional Logic - Equivalence Laws.md",
     "20 Resource/Syntax Python.md",
     "20 Resource/Minmax Search.md",
-    "20 Resource/Study experience.md",
-    "20 Resource/Physics Q.md",
-    "20 Resource/Inference Rules.md",
     "11 Inbox",
     "10 Personal",
     "25 MOC",
